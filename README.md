@@ -3,7 +3,7 @@
 ```
 NETWORK	         Technology            GSM / HSPA / LTE
 
-LAUNCH    	     Announced	           2021, August 09
+LAUNCH    	  Announced	           2021, August 09
                  Status	               Available. Released 2021, August 09
                  
 BODY           	Dimensions	          164 x 75.8 x 8.9 mm (6.46 x 2.98 x 0.35 in)
